@@ -1,1 +1,1 @@
-# What-is-a-living-wage
+# what-is-a-living-wage
