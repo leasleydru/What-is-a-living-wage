@@ -23,8 +23,8 @@ How much should one individual bring home gross to cover housing using the 28/36
 My final analysis will include charts and an interactive dashboard to illustrate how much a person would need to bring home gross to afford housing in Nashville, TN.  My hopes would be for this project to be presented to senior leaders of area organizations as well as members of state governments,  the House,  and Congress. Here, some decisions and compromises can be made around what the future of Tennessee, as well as America, looks like so we can all live comfortably.
 
 # DATA SOURCES #
-US Bureau of Labor Statistics – Modeled Wage Estimates (https://www.bls.gov/mwe/)
-Updated Housing data - (https://www.huduser.gov/portal/datasets/fmr.html#2019_data)
+* US Bureau of Labor Statistics – Modeled Wage Estimates (https://www.bls.gov/mwe/)
+* US Department of Housing and Urban Development - Housing Stats (https://www.huduser.gov/portal/datasets/fmr.html#2019_data)
 
 
 # DASHBOARD #
