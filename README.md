@@ -1,6 +1,6 @@
 What-Is-A-Living-Wage? 
 =======================
-'_Comparing An Hourly Wage To The 28/36 Rule_'
+_Comparing An Hourly Wage To The 28/36 Rule_
 --------------------------------------------
 
 Final Capstone Project for Nashville Software School Data Analytics Part-time Cohort 5
@@ -16,7 +16,8 @@ My capstone project is a comparison of wages to the cost of living from 2010 to 
 
 # 28/36 RULE #
 The 28% rule states a household should spend 28% of the gross income on housing. The 36% of the gross income is spent on the remaining debt including not limited to car loans, credit cards etc.
-[Article reference](The 28/36 Rule: What Is It, and How Does It Affect Your Mortgage?)
+
+[Article reference](https://www.businessinsider.com/personal-finance/28-36-rule-mortgages)
 
 # DATA QUESTION #
 How much should one individual bring home gross to cover housing using the 28/36 rule?
