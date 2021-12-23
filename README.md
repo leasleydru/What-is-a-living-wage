@@ -1,5 +1,5 @@
-What-is-a-living-wage?:Comparing an hourly wage to the 28/36 Rule
-=================================================================
+What-is-a-living-wage?:_Comparing an hourly wage to the 28/36 Rule_
+===================================================================
 
 Final Capstone Project for Nashville Software School Data Analytics Part-time Cohort 5
 --------------------------------------------------------------------------------------
