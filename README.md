@@ -3,7 +3,7 @@ What-Is-A-Living-Wage?
 _Comparing An Hourly Wage To The 28/36 Rule_
 --------------------------------------------
 
-Final Capstone Project for Nashville Software School Data Analytics Part-time Cohort 5
+'_Final Capstone Project for Nashville Software School Data Analytics Part-time Cohort 5_'
 --------------------------------------------------------------------------------------
 
 # MOTIVATION #
