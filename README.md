@@ -3,9 +3,6 @@ What-Is-A-Living-Wage?
 _Comparing An Hourly Wage To The 28/36 Rule_
 --------------------------------------------
 
-######_Final Capstone Project for Nashville Software School Data Analytics Part-time Cohort 5######_
---------------------------------------------------------------------------------------
-
 # MOTIVATION #
 Reports and social media discussions have been circulating for the last few years regarding the rising national 
 cost of living despite salaries and wages remaining stagnant. I wanted to take a closer look at how drastic or 
