@@ -9,7 +9,7 @@ cost of living despite salaries and wages remaining stagnant. I wanted to take a
 not these compare using Nashville, TN as a starting reference point.
 
 # EXECUTIVE SUMMARY #
-My capstone project is a comparison of wages to the cost of living from 2010 to the year 2020. Over the last 10 years we as Americans have seen numerous reports, political debate and social media posts stating we need a minimum/living wage of at least $15.00 per hour. Americans are often depicted as living and working in the “rat race”, working 40+ hours a week to only scrape by paycheck to paycheck. I hope to breakdown an approximate wage/salary to live comfortably in Nashville and/or areas comparable. My current assumption based on past articles is one must make at least $70-80k yearly to live “comfortably” in Nashville, TN, well over the $15.00 minimum suggested.
+My capstone project is a comparison of wages to the cost of living from 2018 to the year 2020. Over the last 10 years we as Americans have seen numerous reports, political debate and social media posts stating we need a minimum/living wage of at least $15.00 per hour. Americans are often depicted as living and working in the “rat race”, working 40+ hours a week to only scrape by paycheck to paycheck. I hope to breakdown an approximate wage/salary to live comfortably in Nashville and/or areas comparable. My current assumption based on past articles is one must make at least $70-80k yearly to live “comfortably” in Nashville, TN, well over the $15.00 minimum suggested.
 
 # 28/36 RULE #
 The 28% rule states a household should spend 28% of the gross income on housing. The 36% of the gross income is spent on the remaining debt including not limited to car loans, credit cards etc.
